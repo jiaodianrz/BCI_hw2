@@ -18,7 +18,8 @@ turning_curve.ipynb: 任务二————神经元运动调制分析
 kalman_filter.ipynb: 任务三————基于卡尔曼滤波器的运动解码
 
 ./utils/...: 实验所需的辅助代码
+
 ./dataset/...: 数据集文件(.mat格式)
 
-数据集为：
-BCI_Hw2/dataset/indy_20161005_06.mat
+数据集为：indy_20161005_06.mat 
+下载链接：https://zenodo.org/records/3854034
